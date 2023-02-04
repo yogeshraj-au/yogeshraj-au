@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yogeshraj-au
 - 👀 I’m interested in docker and Kubernetes.
-- 🌱 I’m currently learning cloud.
 - 📫 How to reach me email: actyogib@hotmail.com
 
 <!---
