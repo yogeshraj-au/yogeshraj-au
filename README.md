@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yogeshraj-au
-- 👀 I’m passionate about automating the software delivery process via CI/CD pipeline. I'm familiar with the following technologies:
-      - Docker and Kubernetes,
-      - Jenkins, AWS, Terraform, Git, Github, Ansible, Prometheus, Grafana, Helm, ArgoCD, Bash, Linux and Python.
+- 👀 I’m passionate about automating the software delivery process via CI/CD pipeline. I'm familiar with the following technologies: Docker and Kubernetes, Jenkins, AWS, Terraform, Git, Github, Ansible, Prometheus, Grafana, Helm, ArgoCD, Bash, Linux and Python.
 - 📫 How to reach me email: actyogib@hotmail.com
 
 <!---
